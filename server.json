@@ -1,0 +1,70 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Pulp Fiction",
+            "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "image_url": "https://loggado.com/wp-content/uploads/2018/06/Pulp-Fiction-e1528478430416.jpg",
+            "thumb_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCIl05z7FowaOUHDu1HH3KWD-93p3kWkOKeA&usqp=CAU",
+            "cast": [
+                {"character": "Pumpkin", "actor": "Tim Roth"},
+                {"character": "Honey Bunny", "actor": "Amanda Plummer"},
+                {"character": "Vincent Vega", "actor": "John Travolta"},
+                {"character": "Jules Winnfield", "actor": "Samuel L. Jackson"}
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The Godfather",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "image_url": "https://imageproxy.themaven.net//https%3A%2F%2Fwww.biography.com%2F.image%2FMTY4OTUyODMyNTUxMDM2Mzky%2Fhero-image-the-godfather-gettyimages-159837887.jpg",
+            "thumb_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cpJml6imbloGzOoM13KmaoVzlHyJdkejmw&usqp=CAU",
+            "cast": [
+                {"character": "Don Vito Corleone", "actor": "Marlon Brando"},
+                {"character": "Michael Corleone", "actor": "Al Pacino"},
+                {"character": "Sonny Corleone", "actor": "James Caan"},
+                {"character": "Clemenza", "actor": "Richard S. Castellano"}
+            ]
+
+        },
+        {
+            "id": 3,
+            "name": "Trainspotting",
+            "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+            "image_url": "https://supercinemaup.com/wp-content/uploads/2016/12/trainspotting-pipoca-de-pimenta-1.png",
+            "thumb_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8kolTw5BT5jC1D7vKfuCf-2-3goGELf_MYQ&usqp=CAU",
+            "cast": [
+                {"character": "Renton", "actor": "Ewan McGregor"},
+                {"character": "Spud", "actor": "Ewen Bremner"},
+                {"character": "Sick Boy", "actor": "Jonny Lee Miller"},
+                {"character": "Tommy", "actor": "Kevin McKidd"}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Interstellar",
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYmJkMjM3NTktYThjZS00YzQyLTlkMDMtZWU2Y2U1Mjc0ZWExL2ltYWdlXkEyXkFqcGdeQXVyNzE4NDc2Mjc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+            "thumb_url": "https://cdn7.antedote.com/wp-content/uploads/2014/12/interstellar-poster.jpg",
+            "cast": [
+                {"character": "Pumpkin", "actor": "Tim Roth"},
+                {"character": "Honey Bunny", "actor": "Amanda Plummer"},
+                {"character": "Vincent Vega", "actor": "John Travolta"},
+                {"character": "Jules Winnfield", "actor": "Samuel L. Jackson"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Inception",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "image_url": "https://blogs.correiobraziliense.com.br/tecnoveste/wp-content/uploads/sites/19/2017/01/SnapShop-inception-by-Square-Bras%C3%ADlia-um-evento-de-expositores-locais-no-shopping-mais-aberto-de-DF.jpg",
+            "thumb_url": "https://i2.wp.com/images.onwardstate.com/uploads/2010/10/inception.png?fit=1593%2C947&ssl=1",
+            "cast": [
+                {"character": "Renton", "actor": "Ewan McGregor"},
+                {"character": "Spud", "actor": "Ewen Bremner"},
+                {"character": "Sick Boy", "actor": "Jonny Lee Miller"},
+                {"character": "Tommy", "actor": "Kevin McKidd"}
+            ]
+        }
+    ]
+}
